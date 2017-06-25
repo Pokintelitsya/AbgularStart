@@ -28,5 +28,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
-# AbgularStart
+# AngularStart
 >>>>>>> 0ebd981abec0a2743af18dd1a71a408ab1f34eab
